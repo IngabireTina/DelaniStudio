@@ -45,4 +45,41 @@
 #services p{
     line-height: 2.3em;
 }
+#what_we_do{
+    height: 100%;  
+}
+#design_desc{
+    display: none;
 
+}
+#design_desc:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+#design_img:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    
+}
+#development_desc{
+    display: none;
+}
+#development_desc:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+#development_img:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+#product_desc{
+    display: none;
+}
+#product_desc:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+#product_img:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
