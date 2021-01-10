@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.max-width{
+    max-width: 1300px;
+    padding: 0 80px;
+    margin: auto;
+    
+
+}
+#home{
+    display: flex;
+    background: url("../images/h_img.jpg") center no-repeat;
+    background-color: black;
+    height: 80vh;
+    color: white;
+    min-height: 400px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+#about{
+    display: flex;
+    background-color: white;
+    height: 80vh;
+    color: white;
+    min-height: 400px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+#services{
+    display: flex;
+    background: url("../images/s_image.jpg") center no-repeat;
+    height: 60vh;
+    color: white;
+    min-height: 400px;
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+#whattodo{
+    display: flex;
+    background-color: white;
+    height: 60vh;
+    color: white;
+    min-height: 400px;
+    font-family: 'Roboto', sans-serif;
+    
+
+
+}
+#portfolio{
+    display: flex;
+    background-color: black;
+    height: 60vh;
+    color: white;
+    min-height: 400px;
+    font-family: 'Roboto', sans-serif;
+    
+
+
+}
+#contact{
+    display: flex;
+    background: url("../images/c_image.jpg") center no-repeat;
+    background-color: black;
+    height: 60vh;
+    color: white;
+    min-height: 400px;
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+#logos{
+    display: flex;
+    background-color: white;
+    height: 40vh;
+    color: black;
+    min-height: 300px;
+    font-family: 'Roboto', sans-serif;
+    
+}
