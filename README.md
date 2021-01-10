@@ -4,12 +4,12 @@
 
 by Clementine INGABIRE<br>
 
-#Project Description<hr>
+#Project Description
 This is website shows how and what DELANI STUDIO do. they design, develop system.<br>
 this website also shows their portfolio, services provided by Delani Studio, and their contact,<br>
 so you can contact them through website.
 
-#Project setup and installation instructions<hr>
+#Project setup and installation instructions
 <ul>
    <li>VsCode:  As Code Editor</li>
     <li>Chrome: To display the content</li>
