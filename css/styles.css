@@ -112,3 +112,15 @@ img:hover{
     transform: scale(1.02);
     border-radius: 1.2px grey;
 }
+#contact{
+    background: url("../images/c_image.jpg") ;
+}
+#contact .form-control{
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 0;
+    color: white; 
+}
+#contact .form-control::placeholder {
+    color: white;
+}
