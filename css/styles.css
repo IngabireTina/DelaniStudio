@@ -11,6 +11,9 @@
     
 
 }
+body{
+    border: 0.5px black;
+}
 #home{
     display: flex;
     background: url("../images/h_img.jpg") center no-repeat;
@@ -21,6 +24,7 @@
     font-family: 'Roboto', sans-serif;
     
 }
+
 #about{
     display: flex;
     background-color: white;
