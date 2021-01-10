@@ -90,15 +90,24 @@ body{
 
 
 #whattodo{
-    display: inline-flex;
+    display: flex;
     background-color: white;
-    height: 60vh;
+    height: 45vh;
     color: black;
-    min-height: 400px;
+    min-height: 300px;
     font-family: 'Roboto', sans-serif;
+
+}
+.what_content{
+    justify-content: center;
+    text-align: center;
+}
+.what_content .logo{
+
+    padding: 20px 100px;
+    cursor: pointer;
+    display: inline-block;
     
-
-
 }
 
 #portfolio{
