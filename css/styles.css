@@ -44,7 +44,7 @@ body{
 #about{
     display: flex;
     background-color: white;
-    height: 50vh;
+    height: 40vh;
     color: black;
     min-height: 200px;
     font-family: 'Roboto', sans-serif;
@@ -54,7 +54,7 @@ body{
 
     text-align: center;
    
-    font-size:1.1em;
+    /* font-size:1.1em; */
 
    
     /* font-size:1.6em;
@@ -71,13 +71,24 @@ body{
 #services{
     display: flex;
     background: url("../images/s_image.jpg") center no-repeat;
-    height: 60vh;
+    height: 45vh;
     color: white;
-    min-height: 400px;
+    min-height: 300px;
     font-family: 'Roboto', sans-serif;
     
 
 }
+.services_content{
+    text-align: center;
+    
+
+}
+.services_content p{
+    margin: 0 0 10px 20px;
+    font-weight: 100px;
+}
+
+
 #whattodo{
     display: flex;
     background-color: white;
