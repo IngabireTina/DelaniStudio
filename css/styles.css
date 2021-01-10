@@ -28,7 +28,21 @@
     width: 60px;
     height: 60px;
 }
+#about-us h3{
+    font-family: "Roboto", "sans-serif";
+}
 #about-us p{
+    line-height: 2.3em;
+}
+#services{
+    height: 60vh;
+    background: url("../images/s_image.jpg") no-repeat center;
+    background-size: cover;
+}
+#services h3{
+    font-family: "Roboto", "sans-serif"; 
+}
+#services p{
     line-height: 2.3em;
 }
 
