@@ -1,6 +1,6 @@
 # DelaniStudio Project <hr>
 
-# About Author<hr>
+# About Author <hr>
 
 by Clementine INGABIRE<br>
 
