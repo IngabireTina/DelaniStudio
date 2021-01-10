@@ -6,7 +6,7 @@
 }
 .max-width{
     max-width: 1300px;
-    padding: 0 80px;
+    /* padding: 0 80px; */
     margin: auto;
     
 
@@ -24,6 +24,20 @@ body{
     font-family: 'Roboto', sans-serif;
     
 }
+.home_content{
+    justify-content: center;
+    text-align: center;
+    margin: 0 50px 0 50px;
+}
+#logoD{
+    width: 50px;
+    height: 50px;
+    
+}
+.content_down{
+    margin: 0px 0 7px 0;
+}
+
 
 #about{
     display: flex;
