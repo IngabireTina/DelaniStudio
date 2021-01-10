@@ -105,9 +105,9 @@
     padding: 5px;
     box-shadow: 2px 2px 3px grey;
 }
-.work-img {
+/* .work-img {
     filter: blur(2px) brightness(80%);
-}
+} */
 img:hover{
     transform: scale(1.02);
     border-radius: 1.2px grey;
