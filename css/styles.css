@@ -21,13 +21,14 @@ body{
     height: 80vh;
     color: white;
     min-height: 400px;
-    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
     
 }
 .home_content{
     justify-content: center;
     text-align: center;
     margin: 0 50px 0 50px;
+    padding-bottom: 50px;
 }
 #logoD{
     width: 50px;
@@ -39,15 +40,34 @@ body{
 }
 
 
+
 #about{
     display: flex;
     background-color: white;
-    height: 80vh;
-    color: white;
-    min-height: 400px;
+    height: 50vh;
+    color: black;
+    min-height: 200px;
     font-family: 'Roboto', sans-serif;
     
 }
+.about_content{
+
+    text-align: center;
+   
+    font-size:1.1em;
+
+   
+    /* font-size:1.6em;
+    line-height:.2em;
+    margin-bottom:2.2em; */
+
+}
+/* .about_content h1,p{
+    padding-top: 10px;
+} */
+
+
+
 #services{
     display: flex;
     background: url("../images/s_image.jpg") center no-repeat;
