@@ -21,7 +21,7 @@ body{
     height: 80vh;
     color: white;
     min-height: 400px;
-    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Roboto', sans-serif;
     
 }
 .home_content{
@@ -90,16 +90,17 @@ body{
 
 
 #whattodo{
-    display: flex;
+    display: inline-flex;
     background-color: white;
     height: 60vh;
-    color: white;
+    color: black;
     min-height: 400px;
     font-family: 'Roboto', sans-serif;
     
 
 
 }
+
 #portfolio{
     display: flex;
     background-color: black;
