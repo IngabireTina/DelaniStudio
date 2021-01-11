@@ -105,4 +105,14 @@ $(document).ready(function(){
        $("#work8-heading").removeClass("work-title-show")
        $("#div#work8").removeClass("work-section")
     });
+    $("form#form").on('submit',function(event){
+        event.preventDefault();
+        let name = $("input#name").val();
+        let email = $("input#email").val();
+        let message = $("textarea#message").val();
+        if ($("input#name").val() && $("input#email").val() && $("textarea#message").val()){
+            alert ("Hello Dear " + name + "," +"Thanks for your comment");
+        }
+    });
+   
 });
