@@ -4,12 +4,12 @@
 
 by Clementine INGABIRE<br>
 
-# Project Description
+ Project Description
 This is website shows how and what DELANI STUDIO do. they design, develop system.<br>
 this website also shows their portfolio, services provided by Delani Studio, and their contact,<br>
 so you can contact them through website.
 <hr>
-# Project setup and installation instructions
+ Project setup and installation instructions
 <ul>
    <li>VsCode:  As Code Editor</li>
     <li>Chrome: To display the content</li>
@@ -18,7 +18,7 @@ so you can contact them through website.
       <li>JQuery File</li>
 </ul>
 <hr>
-# Technologies used
+ Technologies used
 <ul>
    <li>HTML</li>
     <li>Javascript</li>
@@ -27,18 +27,18 @@ so you can contact them through website.
      
 </ul>
 <hr>
-# Dependencies
+Dependencies
 <ul>
    <li>Bootstrap File</li>
     <li>JQuery File</li>
      
 </ul>
 <hr>
-# Contact Info
+ Contact Info
 Email: ingabire067@gmail.com<br>
 Tel: +250789942598
 <hr>
-# Link to live site on GitHub Pages
+Link to live site on GitHub Pages
 https://ingabiretina.github.io/DelaniStudio/
 <hr>
 
